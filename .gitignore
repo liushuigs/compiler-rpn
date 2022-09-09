@@ -1,0 +1,5 @@
+exmaples/*.js
+examples/*.js.map
+.vscode/
+node_modules
+package-lock.json

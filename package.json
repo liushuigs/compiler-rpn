@@ -1,0 +1,18 @@
+{
+  "name": "rpn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/rpn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "bin": {
+    "rpn.js": "./bin/rpn.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "jison": "^0.4.18",
+    "source-map": "^0.7.4"
+  }
+}
